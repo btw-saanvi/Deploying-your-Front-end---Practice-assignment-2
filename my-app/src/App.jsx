@@ -38,8 +38,8 @@ function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>HI KALVIUM</h1>
-      <p>THIS IS ASSIGNMENT</p>
-      <p>Deploying your Front-end - Practice assignment #2</p>
+      <p>THIS IS ASSIGNMENT!</p>
+      <p>Deploying your Front-end - Practice assignment #2.</p>
     </div>
   );
 }
